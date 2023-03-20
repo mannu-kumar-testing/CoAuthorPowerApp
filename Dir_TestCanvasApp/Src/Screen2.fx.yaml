@@ -9,3 +9,23 @@ Screen2 As screen:
         Y: =668
         ZIndex: =2
 
+    Rectangle2 As rectangle:
+        Height: =645
+        X: =608
+        Y: =87
+        ZIndex: =3
+
+    Rectangle3 As rectangle:
+        Height: =239
+        Width: =1366
+        Y: =290
+        ZIndex: =4
+
+    Icon1 As icon.Airplane:
+        Color: =RGBA(255, 255, 255, 1)
+        Height: =211
+        Icon: =Icon.Airplane
+        Width: =1366
+        Y: =304
+        ZIndex: =5
+
